@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PROMETHEUS</Machine>
+    <WindowsUser>t_j_w</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6254e66b-ba44-450a-a648-6dc79154456c</PackageIdentityName>
+    <RegisteredManifestChecksum>B1AC6463D38CF60EC0F787C85CCFD752405EA4C2C095C4337403BA9255A956D1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6254e66b-ba44-450a-a648-6dc79154456c_1.0.0.0_neutral__j5y3xazawvcw0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6254e66b-ba44-450a-a648-6dc79154456c_j5y3xazawvcw0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6254e66b-ba44-450a-a648-6dc79154456c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=t_j_w</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-23T21:16:42.577</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\bin\Debug\WondersOfTheWorld.exe">
+      <PackagePath>WondersOfTheWorld.exe</PackagePath>
+      <Modified>2015-11-23T21:17:18.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\MapView.html">
+      <PackagePath>MapView.html</PackagePath>
+      <Modified>2015-11-23T21:25:54.240</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\Colossus_Of_Rhodes.jpg">
+      <PackagePath>Assets\Colossus_Of_Rhodes.jpg</PackagePath>
+      <Modified>2015-11-23T16:32:04.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\Hanging_Gardens_of_Babylon.jpg">
+      <PackagePath>Assets\Hanging_Gardens_of_Babylon.jpg</PackagePath>
+      <Modified>2015-11-23T16:27:22.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\Mausoleum_Of_Halicarnassus.jpg">
+      <PackagePath>Assets\Mausoleum_Of_Halicarnassus.jpg</PackagePath>
+      <Modified>2015-11-23T16:31:24.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\pyramids.jpg">
+      <PackagePath>Assets\pyramids.jpg</PackagePath>
+      <Modified>2015-11-23T13:39:46.147</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\SevenModernWonders\ChannelTunnel.jpg">
+      <PackagePath>Assets\SevenModernWonders\ChannelTunnel.jpg</PackagePath>
+      <Modified>2015-11-23T18:30:17.439</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\SevenModernWonders\CN_Tower.jpg">
+      <PackagePath>Assets\SevenModernWonders\CN_Tower.jpg</PackagePath>
+      <Modified>2015-11-23T18:31:15.929</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\SevenModernWonders\Delta_Works.jpg">
+      <PackagePath>Assets\SevenModernWonders\Delta_Works.jpg</PackagePath>
+      <Modified>2015-11-23T18:34:52.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\SevenModernWonders\Empire_State_Building.jpg">
+      <PackagePath>Assets\SevenModernWonders\Empire_State_Building.jpg</PackagePath>
+      <Modified>2015-11-23T18:32:00.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\SevenModernWonders\Golden_Gate_Bridge.jpg">
+      <PackagePath>Assets\SevenModernWonders\Golden_Gate_Bridge.jpg</PackagePath>
+      <Modified>2015-11-23T18:33:28.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\SevenModernWonders\Itaipu_Dam.jpg">
+      <PackagePath>Assets\SevenModernWonders\Itaipu_Dam.jpg</PackagePath>
+      <Modified>2015-11-23T18:34:24.613</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\SevenModernWonders\Panama_Canal.jpg">
+      <PackagePath>Assets\SevenModernWonders\Panama_Canal.jpg</PackagePath>
+      <Modified>2015-11-23T18:35:28.476</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\Temple_of_Artemis.jpg">
+      <PackagePath>Assets\Temple_of_Artemis.jpg</PackagePath>
+      <Modified>2015-11-23T16:30:34.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\Zeus_at_Olympia.jpg">
+      <PackagePath>Assets\Zeus_at_Olympia.jpg</PackagePath>
+      <Modified>2015-11-23T16:29:09.708</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\Lighthouse_Of_Alexandria.jpeg">
+      <PackagePath>Assets\Lighthouse_Of_Alexandria.jpeg</PackagePath>
+      <Modified>2015-11-23T16:32:50.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\New_York_Cinemagraph.gif">
+      <PackagePath>Assets\New_York_Cinemagraph.gif</PackagePath>
+      <Modified>2015-11-23T19:41:20.641</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2015-11-23T20:52:29.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T06:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T06:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T06:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T06:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2013-07-23T06:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2013-07-23T06:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2013-07-23T06:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-11-23T18:21:25.389</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2015-11-23T21:17:18.519</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+      <Modified>2015-11-23T21:17:18.523</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+      <Modified>2015-11-23T21:17:18.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\t_j_w\Work\University\Interactive Systems Development\WondersOfTheWorld\WondersOfTheWorld\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-11-23T21:16:42.485</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,38 @@
+﻿{"Groups":[
+  {
+    "UniqueId": "Group-1",
+    "Title": "Seven Wonders of the Ancient World",
+    "Subtitle": "Group subtitle: 1",
+    "ImagePath": "Assets/Pantheon.jpg",
+    "Description" : "The Seven Wonders of the Ancient World are a collection of structures prominent around the first century BC. The list was referred to by the ancient Greek poet, Antipater of Sidon, and a Greek engineer, Philo of Byzantium. After the ancient Greeks conqurered many other civilisations, Greek tourists were granted the opportunity to see cultural features that were prominent in their lands. The list of Ancient Wonders was therefor a 'must-see' compilation of landmarks in its time. The only Ancient wonder still remaining is the Great Pyramid, and the existence of the Hanging Gardens of Babylon is still under debate.",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-1-Item-1",
+        "Question_Number": "1",
+		"Question": "Where is the Great Pyramid?",
+		"Answer_1": "Iran",
+		"Answer_2": "Turkey",
+		"Answer_3": "Egypt",
+		"Correct": "Egypt"
+		},
+		"UniqueId": "Group-1-Item-2",
+        "Question_Number": "2",
+		"Question": "What is the only remaining Ancient Wonder?",
+		"Answer_1": "Hanging Gardens of Babylon",
+		"Answer_2": "Great Pyramid at Giza",
+		"Answer_3": "Temple of Artemis"
+		"Correct": "Great Pyramid at Giza"
+		},
+		"UniqueId": "Group-1-Item-3",
+        "Question_Number": "3",
+		"Question": "Which of these is NOT an Ancient Wonder?",
+		"Answer_1": "Panama Canal",
+		"Answer_2": "Lighthouse of Alexandria",
+		"Answer_3": "Mausoleum of Halicarnassus"
+		"Correct": "Panama Canal"
+		}
+    ]
+  }
+]
+}

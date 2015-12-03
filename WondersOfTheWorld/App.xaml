@@ -1,0 +1,14 @@
+﻿<Application
+    x:Class="WondersOfTheWorld.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WondersOfTheWorld"
+    xmlns:localData="using:WondersOfTheWorld.Data">
+
+    <Application.Resources>
+        <!-- Application-specific resources -->
+
+        <x:String x:Key="AppName">Wonders Of The World</x:String>
+
+    </Application.Resources>
+</Application>
