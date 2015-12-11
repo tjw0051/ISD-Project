@@ -48,7 +48,7 @@
                 <EntranceThemeTransition/>
             </TransitionCollection>
         </Grid.ChildrenTransitions>
-        <Hub x:ConnectionId='1'                                            >
+        <Hub x:ConnectionId='0'                                            >
             <Hub.Header>
                 <!-- Back button and page title -->
                 <Grid>
@@ -117,7 +117,7 @@
             <HubSection IsHeaderInteractive="True" DataContext="{Binding Section3Items}" d:DataContext="{Binding Groups[0], Source={d:DesignData Source=/DataModel/SampleData.json, Type=data:SampleDataSource}}"
                         x:Uid="Section3Header" Header="Ancient World" Padding="40,40,40,32">
                 <DataTemplate>
-                    <GridView x:ConnectionId='3'
+                    <GridView x:ConnectionId='0'
                         x:Name="itemGridView"
                         ItemsSource="{Binding Items}"
                         Margin="-9,-14,0,0"
@@ -135,7 +135,7 @@
             <HubSection IsHeaderInteractive="True" DataContext="{Binding Section4Items}" d:DataContext="{Binding Groups[1], Source={d:DesignData Source=/DataModel/SampleData.json, Type=data:SampleDataSource}}"
                         x:Uid="Section4Header" Header="Modern World" Padding="40,40,40,32">
                 <DataTemplate>
-                    <GridView x:ConnectionId='2'
+                    <GridView x:ConnectionId='0'
                         x:Name="itemGridView"
                         ItemsSource="{Binding Items}"
                         Margin="-9,-14,0,0"

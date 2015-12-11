@@ -10,6 +10,21 @@ WondersOfTheWorld
 	<summary>
 	</summary>
 	<remarks></remarks>
+</member><member name="T:WondersOfTheWorld.Data.QuizDataItem">
+	<summary>
+ Generic item data model.
+ </summary>
+</member><member name="T:WondersOfTheWorld.Data.QuizDataGroup">
+	<summary>
+ Generic group data model.
+ </summary>
+</member><member name="T:WondersOfTheWorld.Data.QuizDataSource">
+	<summary>
+ Creates a collection of groups and items with content read from a static json file.
+ 
+ SampleDataSource initializes with data read from a static json file included in the 
+ project.  This provides sample data at both design-time and run-time.
+ </summary>
 </member><member name="P:WondersOfTheWorld.SectionPage.NavigationHelper">
 	<summary>
  NavigationHelper is used on each page to aid in navigation and 
@@ -274,6 +289,52 @@ WondersOfTheWorld
 	<summary>
 	</summary>
 	<remarks></remarks>
+</member><member name="P:WondersOfTheWorld.QuizSection.NavigationHelper">
+	<summary>
+ NavigationHelper is used on each page to aid in navigation and 
+ process lifetime management
+ </summary>
+</member><member name="P:WondersOfTheWorld.QuizSection.DefaultViewModel">
+	<summary>
+ This can be changed to a strongly typed view model.
+ </summary>
+</member><member name="M:WondersOfTheWorld.QuizSection.NavigationHelper_LoadState(System.Object,WondersOfTheWorld.Common.LoadStateEventArgs)">
+	<summary>
+ Populates the page with content passed during navigation.  Any saved state is also
+ provided when recreating a page from a prior session.
+ </summary>
+	<param name="sender">
+ The source of the event; typically <see cref="P:WondersOfTheWorld.QuizSection.NavigationHelper"/>
+	</param>
+	<param name="e">Event data that provides both the navigation parameter passed to
+ <see cref="M:Windows.UI.Xaml.Controls.Frame.Navigate(Windows.UI.Xaml.Interop.TypeName,System.Object)"/> when this page was initially requested and
+ a dictionary of state preserved by this page during an earlier
+ session.  The state will be null the first time a page is visited.</param>
+</member><member name="M:WondersOfTheWorld.QuizSection.NavigationHelper_SaveState(System.Object,WondersOfTheWorld.Common.SaveStateEventArgs)">
+	<summary>
+ Preserves state associated with this page in case the application is suspended or the
+ page is discarded from the navigation cache.  Values must conform to the serialization
+ requirements of <see cref="P:WondersOfTheWorld.Common.SuspensionManager.SessionState"/>.
+ </summary>
+	<param name="sender">
+ The source of the event; typically <see cref="P:WondersOfTheWorld.QuizSection.NavigationHelper"/>
+	</param>
+	<param name="e">Event data that provides an empty dictionary to be populated with 
+ serializable state.</param>
+</member><member name="M:WondersOfTheWorld.QuizSection.OnNavigatedTo(Windows.UI.Xaml.Navigation.NavigationEventArgs)">
+ The methods provided in this section are simply used to allow
+ NavigationHelper to respond to the page's navigation methods.
+ 
+ Page specific logic should be placed in event handlers for the  
+ <see cref="E:WondersOfTheWorld.Common.NavigationHelper.LoadState"/>
+ and <see cref="E:WondersOfTheWorld.Common.NavigationHelper.SaveState"/>.
+ The navigation parameter is available in the LoadState method 
+ in addition to page state preserved during an earlier session.
+
+</member><member name="T:WondersOfTheWorld.QuizSection">
+	<summary>
+ A basic page that provides characteristics common to most applications.
+ </summary>
 </member><member name="T:WondersOfTheWorld.Data.SampleDataItem">
 	<summary>
  Generic item data model.

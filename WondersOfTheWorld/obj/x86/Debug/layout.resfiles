@@ -7,6 +7,7 @@ Assets\Logo.scale-100.png
 Assets\Mausoleum_Of_Halicarnassus.jpg
 Assets\MediumGray.png
 Assets\New_York_Cinemagraph.gif
+Assets\Pantheon.jpg
 Assets\pyramids.jpg
 Assets\SevenModernWonders\ChannelTunnel.jpg
 Assets\SevenModernWonders\CN_Tower.jpg
@@ -21,8 +22,11 @@ Assets\StoreLogo.scale-100.png
 Assets\Temple_of_Artemis.jpg
 Assets\Zeus_at_Olympia.jpg
 App.xbf
+Bing.Maps\Themes\Generic.xbf
 HubPage.xbf
 ItemPage.xbf
+QuizSection.xbf
 SectionPage.xbf
+DataModel\QuizData.json
 DataModel\SampleData.json
 MapView.html
